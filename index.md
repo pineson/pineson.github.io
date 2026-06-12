@@ -48,12 +48,12 @@ I research IoT and teach IT subjects.
 
 ## 📜 Publication
 ### Journal
-*Li, S. Fall Detection With Wrist-Worn Watch by Observations in Statistics of Acceleration, IEEE Access, 2023.3.
-*S Li, C Chiu, Improved Smart Pillow for Remote Health Care System, Journal of Sensor and Actuator Networks 10 (1), 9, 2020.
-*Li, S. Wildfire Early Warning System Based on Wireless Sensors and Unmanned Aerial Vehicle, Journal of Unmanned Vehicle Systems, Published on the web 21 November 2018.
-*Li, S.; Chiu, C. A Smart Pillow for Health Sensing System Based on Temperature and Humidity Sensors. Sensors 2018, 18, 3664.
-*Li, S. Dynamic path for localization of WSN based on UAV, Software Guide, Vol.17 No.8 Aug. 2018.
-*Li S., Kong X. & Sandrasegaran, K.  (2013) "Dynamic Path of Mobile Beacon in Localization of Wireless Sensor Network" International Journal of Sensor Networks.
+*Li, S. Fall Detection With Wrist-Worn Watch by Observations in Statistics of Acceleration, IEEE Access, 2023.3.*
+*S Li, C Chiu, Improved Smart Pillow for Remote Health Care System, Journal of Sensor and Actuator Networks 10 (1), 9, 2020.*
+*Li, S. Wildfire Early Warning System Based on Wireless Sensors and Unmanned Aerial Vehicle, Journal of Unmanned Vehicle Systems, Published on the web 21 November 2018.*
+*Li, S.; Chiu, C. A Smart Pillow for Health Sensing System Based on Temperature and Humidity Sensors. Sensors 2018, 18, 3664.*
+*Li, S. Dynamic path for localization of WSN based on UAV, Software Guide, Vol.17 No.8 Aug. 2018.*
+*Li S., Kong X. & Sandrasegaran, K.  (2013) "Dynamic Path of Mobile Beacon in Localization of Wireless Sensor Network" International Journal of Sensor Networks.*
 ### Conference
 *S. Li. (2026) Extending Advertiser Lifespan: Optimizing BLE Broadcasting and Scanning for Environmental Monitoring, ICCCI2026
 *S. Li. (2024). Fall Detection by 1D-CNN Based on Public Dataset Using a Wrist-Worn Smartwatch, 2024 3rd International Conference on Automation, Robotics and Computer Engineering (ICARCE), China, 2024, pp. 239-243, doi: 10.1109/ICARCE63054.2024.00051.
