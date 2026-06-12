@@ -18,7 +18,7 @@ I research IoT and teach IT subjects.
 
 ## 💼 Work Experience
 
-### Lecturer
+### Programme Leader
 **CTIHE** | *2024 - Present*
 * Programme Leader of Industrial Internet of Things.
 * teaching CISP.
@@ -29,15 +29,14 @@ I research IoT and teach IT subjects.
 * Chinese culture web infrastructure.
 * teaching Speech Recognition.
 
-### Associate Researcher
 **GDBTU** | *2013 - 2023*
 * Teaching conputer language C, Python and Java.
 * Concentrating on IoT application.
 
 ### Telecommunication/ software Engineer
 **IT Solutions Project** | *before 2013*
-* Telecommunication project in China.
-* Voice Service and management project in Australia.
+* Telecommunication projects in China.
+* Contents management systems in Australia.
 
 ## 🎓 Education
 ### B.Sc. in Wireless Communication / Computer Science
