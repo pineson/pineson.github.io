@@ -42,8 +42,8 @@ title: Home
 * Teaching Speech Recognition.
 
 **GDBTU** | *2013 - 2023*
-* Teaching conputer language C, Python and Java.
-* Concentrating on IoT application.
+* Teaching computer language C, Python and Java.
+* Concentrating on IoT applications.
 
 ### Telecommunication/ software Engineer
 **IT Solutions Project** | *before 2013*
