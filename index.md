@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Songsheng LI
-**Embedded Systems Engineer / Technical Specialist** 📍 City, Country | ✉️ your.email@example.com  
+**Embedded Systems Engineer / Technical Specialist** 📍 Hong Kong, China | ✉️ songsheng.li@hotmail.com  
 
 ---
 
@@ -29,5 +29,9 @@ A highly motivated technical specialist with expertise in building responsive we
 * Optimized hardware battery efficiency and data collection reliability.
 
 ## 🎓 Education
-### B.Sc. in Electronic Engineering / Computer Science
-*Your University* | *Graduation Year*
+### B.Sc. in Wireless Communication / Computer Science
+*BUPT* | *1995*
+### Master in Engineering / Computer Science
+*Xi'an JiaoTong University* | *2000*
+### PhD in Engineering / Computer and Communication
+*UTS* | *2013*
