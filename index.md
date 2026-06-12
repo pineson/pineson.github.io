@@ -33,13 +33,13 @@ title: Home
 ### Programme Leader
 **CTIHE** | *2024 - Present*
 * Programme Leader of Industrial Internet of Things.
-* teaching CISP.
-* teaching Embedded Systems, Sensors, Wireless Communication, IoT programming, IoT Integrated Project etc.
+* Teaching CISP.
+* Teaching Embedded Systems, Sensors, Wireless Communication, IoT programming, IoT Integrated Project etc.
 
 ### Associate Researcher
 **SFU** | *2023 - 2024*
 * Chinese culture web infrastructure.
-* teaching Speech Recognition.
+* Teaching Speech Recognition.
 
 **GDBTU** | *2013 - 2023*
 * Teaching conputer language C, Python and Java.
