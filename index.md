@@ -6,6 +6,7 @@ title: Home
 # Songsheng LI
 **Lecturer and IoT researcher** 📍 Hong Kong, China | ✉️ songsheng.li@hotmail.com  
 ---
+
 ## 🛠️ Skills/Awards
 * **Certificate:** CISP/CISI(Certified Information Security Instructor)
 * **Leader:** Innovation projects of Guangdong Province
