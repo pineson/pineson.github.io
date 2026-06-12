@@ -12,8 +12,8 @@ title: Home
 * **Certificate:** CISP/CISI(Certified Information Security Instructor)
 * **Leader:** Innovation projects of Guangdong Province
 * **Reviewer:**
- * MDPI Journals (Sensors, Applied sciences etc.)
- * IEEE Journals (Internet of Things, Access etc.) and Conferences
+  * MDPI Journals (Sensors, Applied sciences etc.)
+  * IEEE Journals (Internet of Things, Access etc.) and Conferences
 * **Patent:** 
   * Intelligent pillow,	CN Patent ZL201620117091.1
   * Intelligent pad for pillow,	CN Patent zl201620117003.8
