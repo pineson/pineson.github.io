@@ -45,3 +45,11 @@ I research IoT and teach IT subjects.
 *Xi'an JiaoTong University* | *2000*
 ### PhD in Engineering / Computer and Communication
 *UTS* | *2013*
+
+## 📜 Publication
+### Journal
+*BUPT* | *1995*
+### Conference
+*Xi'an JiaoTong University* | *2000*
+### PhD in Engineering / Computer and Communication
+*UTS* | *2013*
