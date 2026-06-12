@@ -6,11 +6,11 @@ title: Home
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 # Songsheng LI
-**Lecturer and IoT researcher** 📍 Hong Kong, China
+**Lecturer and IoT Researcher** 📍 Hong Kong, China
 <p align="left">
   <i class="fa-solid fa-envelope"></i> <a href="mailto:songsheng.li@hotmail.com">Email</a>
  | 
-  <i class="fa-brands fa-linkedin"></i> <a href="https://linkedin.com/in/yourlinkedin" target="_blank">LinkedIn</a>
+ <i class="fa-brands fa-orcid" style="color: #A6CE39;"></i> <a href="https://orcid.org/0000-0003-4324-4235" target="_blank">ORCID</a>
  | 
   <i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=MSLujhgAAAAJ" target="_blank">Google Scholar</a>
  | 
