@@ -13,10 +13,10 @@ title: Home
 * **Leader:** Innovation projects of Guangdong Province
 * **Reviewer:** MDPI Journals (Sensors, Applied sciences etc.), IEEE Journals (Internet of Things, Access etc.) and Conferences
 * **Patent:** 
-* Intelligent pillow,	CN Patent ZL201620117091.1
-* Intelligent pad for pillow,	CN Patent zl201620117003.8
-* Information pushing method and system,	CN Patent App. CN103,781,023 A
-* Automatic forest patrolling system and method based on unmanned aerial vehicle, CN Patent ZL201710876199.8
+  * Intelligent pillow,	CN Patent ZL201620117091.1
+  * Intelligent pad for pillow,	CN Patent zl201620117003.8
+  * Information pushing method and system,	CN Patent App. CN103,781,023 A
+  * Automatic forest patrolling system and method based on unmanned aerial vehicle, CN Patent ZL201710876199.8
 
 
 ## 💼 Work Experience
