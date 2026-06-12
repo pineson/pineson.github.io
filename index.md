@@ -6,6 +6,18 @@ title: Home
 # Songsheng LI
 **Lecturer and IoT researcher** 📍 Hong Kong, China | ✉️ songsheng.li@hotmail.com  
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+# Your Name
+**Embedded Systems Engineer / Technical Specialist** <p align="left">
+  <i class="fa-solid fa-envelope"></i> <a href="mailto:your.email@example.com">Email</a>
+ | 
+  <i class="fa-brands fa-linkedin"></i> <a href="https://linkedin.com/in/yourlinkedin" target="_blank">LinkedIn</a>
+ | 
+  <i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">Google Scholar</a>
+ | 
+  <i class="fa-solid fa-square-poll-vertical"></i> <a href="https://www.webofscience.com/wos/author/record/YOUR_ID" target="_blank">Web of Science</a>
+</p>
 
 ## 🛠️ Skills/Awards
 * **Certificate:** CISP/CISI(Certified Information Security Instructor)
