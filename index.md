@@ -24,6 +24,7 @@ title: Home
 * Programme Leader of Industrial Internet of Things.
 * teaching CISP.
 * teaching Embedded Systems, Sensors, Wireless Communication, IoT programming, IoT Integrated Project etc.
+
 ### Associate Researcher
 **SFU** | *2023 - 2024*
 * Chinese culture web infrastructure.
@@ -31,6 +32,7 @@ title: Home
 **GDBTU** | *2013 - 2023*
 * Teaching conputer language C, Python and Java.
 * Concentrating on IoT application.
+
 ### Telecommunication/ software Engineer
 **IT Solutions Project** | *before 2013*
 * Telecommunication projects in China.
@@ -52,6 +54,7 @@ title: Home
 * Li, S.; Chiu, C. A Smart Pillow for Health Sensing System Based on Temperature and Humidity Sensors. Sensors 2018, 18, 3664.
 * Li, S. Dynamic path for localization of WSN based on UAV, Software Guide, Vol.17 No.8 Aug. 2018.
 * Li S., Kong X. & Sandrasegaran, K.  (2013) "Dynamic Path of Mobile Beacon in Localization of Wireless Sensor Network" International Journal of Sensor Networks.
+
 ### Conference
 * S. Li. (2026) Extending Advertiser Lifespan: Optimizing BLE Broadcasting and Scanning for Environmental Monitoring, ICCCI2026
 * S. Li. (2024). Fall Detection by 1D-CNN Based on Public Dataset Using a Wrist-Worn Smartwatch, 2024 3rd International Conference on Automation, Robotics and Computer Engineering (ICARCE), China, 2024, pp. 239-243, doi: 10.1109/ICARCE63054.2024.00051.
@@ -63,6 +66,7 @@ title: Home
 * Li S., Kong X., Lowe D. (2012) “Wireless sensor network localization with autonomous mobile beacon by path finding”, International Conference on Information Science and Applications (ICISA 2012), May 2012 Suwon, S. Korea
 * Li S., Kong X., Lowe D. (2012) “Dynamic Path of Mobile Beacon Employing Reinforcement Learning in WSN Localization”. International Workshop on Data Management for Wireless and Pervasive Communications, March 2012 Japan
 * Li, S., Lowe D., Kong X., Braun R. (2011), Wireless Sensor Network Localization Algorithm Using Dynamic Path of Mobile Beacon, In Proceedings of APCC 2011: 17th Asia-Pacific Conference on Communications, October 2011, Sabah, Malaysia.
+
 ### Thesis
 * Localization of Wireless Sensor Network with Mobile Beacon by dynamic path (PhD Thesis, 2013)
 * Design of GSM System Optimization Project (Master thesis，2002)
