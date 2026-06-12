@@ -12,21 +12,32 @@ title: Home
 I research IoT and teach IT subjects.
 
 ## 🛠️ Technical Skills
-* **Hardware/IoT:** STM32, ESP32, BLE (Bluetooth Low Energy), Raspberry Pi
-* **Software/Web:** Python, C, Java
-* **Certificate:** CISP/CISI
+* **Hardware/IoT:** STM32, ESP32, BLE, Raspberry Pi
+* **Software/Web:** Python, C, Java/Spring
+* **Certificate:** CISP/CISI(Certified Information Security Instructor)
 
 ## 💼 Work Experience
 
-### Technical Administrator / Specialist
-**Your Organization / Company** | *2024 - Present*
-* Managed technical asset alignment and optimized standard operations.
-* Successfully coordinated framework requirements and documentation benchmarks.
+### Lecturer
+**CTIHE** | *2024 - Present*
+* Programme Leader of Industrial Internet of Things.
+* teaching CISP.
+* teaching Embedded Systems, Sensors, Wireless Communication, IoT programming, IoT Integrated Project etc.
 
-### Embedded Systems Project Lead (Contract / Freelance)
-**IoT Solutions Project** | *2025 - 2026*
-* Developed a low-power temperature sensing system utilizing ESP32 microcontrollers and non-connectable BLE advertising.
-* Optimized hardware battery efficiency and data collection reliability.
+### Associate Researcher
+**SFU** | *2023 - 2024*
+* Chinese culture web infrastructure.
+* teaching Speech Recognition.
+
+### Associate Researcher
+**GDBTU** | *2013 - 2023*
+* Teaching conputer language C, Python and Java.
+* Concentrating on IoT application.
+
+### Telecommunication/ software Engineer
+**IT Solutions Project** | *before 2013*
+* Telecommunication project in China.
+* Voice Service and management project in Australia.
 
 ## 🎓 Education
 ### B.Sc. in Wireless Communication / Computer Science
