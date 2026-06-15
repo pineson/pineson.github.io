@@ -6,7 +6,7 @@ title: Home
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 # Songsheng LI
-**Lecturer and IoT Researcher** 📍 Hong Kong, China
+**Lecturer and IoT Researcher** 📍 Hong Kong
 <p align="left">
   <i class="fa-solid fa-envelope"></i> <a href="mailto:songsheng.li@hotmail.com">Email</a>
  | 
