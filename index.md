@@ -61,11 +61,11 @@ title: Home
 ## 📜 Publication
 ### Journal
 * Li, S. <a href="https://ieeexplore.ieee.org/abstract/document/10054047" target="_blank">Fall Detection With Wrist-Worn Watch by Observations in Statistics of Acceleration, IEEE Access, 2023.3.
-* S Li, C Chiu, Improved Smart Pillow for Remote Health Care System, Journal of Sensor and Actuator Networks 10 (1), 9, 2020.
-* Li, S. Wildfire Early Warning System Based on Wireless Sensors and Unmanned Aerial Vehicle, Journal of Unmanned Vehicle Systems, Published on the web 21 November 2018.
-* Li, S.; Chiu, C. A Smart Pillow for Health Sensing System Based on Temperature and Humidity Sensors. Sensors 2018, 18, 3664.
-* Li, S. Dynamic path for localization of WSN based on UAV, Software Guide, Vol.17 No.8 Aug. 2018.
-* Li S., Kong X. & Sandrasegaran, K.  (2013) "Dynamic Path of Mobile Beacon in Localization of Wireless Sensor Network" International Journal of Sensor Networks.
+* S Li, C Chiu, <a href="https://www.mdpi.com/2224-2708/10/1/9" target="_blank">Improved Smart Pillow for Remote Health Care System, Journal of Sensor and Actuator Networks 10 (1), 9, 2020.
+* Li, S. <a href="https://cdnsciencepub.com/doi/full/10.1139/juvs-2018-0022" target="_blank">Wildfire Early Warning System Based on Wireless Sensors and Unmanned Aerial Vehicle, Journal of Unmanned Vehicle Systems, Published on the web 21 November 2018.
+* Li, S.; Chiu, C. <a href="https://www.mdpi.com/1424-8220/18/11/3664" target="_blank">A Smart Pillow for Health Sensing System Based on Temperature and Humidity Sensors. Sensors 2018, 18, 3664.
+* Li, S. <a href="URL_HERE" target="_blank">Dynamic path for localization of WSN based on UAV, Software Guide, Vol.17 No.8 Aug. 2018.
+* Li S., Kong X. & Sandrasegaran, K.  (2013) <a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2014.060723" target="_blank">"Dynamic Path of Mobile Beacon in Localization of Wireless Sensor Network" International Journal of Sensor Networks.
 
 ### Conference
 * S. Li. (2026) Extending Advertiser Lifespan: Optimizing BLE Broadcasting and Scanning for Environmental Monitoring, ICCCI2026
