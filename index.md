@@ -60,7 +60,7 @@ title: Home
 
 ## 📜 Publication
 ### Journal
-* Li, S. Fall Detection With Wrist-Worn Watch by Observations in Statistics of Acceleration, IEEE Access, 2023.3.(https://ieeexplore.ieee.org/abstract/document/10054047)
+* [Li, S. Fall Detection With Wrist-Worn Watch by Observations in Statistics of Acceleration, IEEE Access, 2023.3.](https://ieeexplore.ieee.org/abstract/document/10054047)
 * S Li, C Chiu, Improved Smart Pillow for Remote Health Care System, Journal of Sensor and Actuator Networks 10 (1), 9, 2020.
 * Li, S. Wildfire Early Warning System Based on Wireless Sensors and Unmanned Aerial Vehicle, Journal of Unmanned Vehicle Systems, Published on the web 21 November 2018.
 * Li, S.; Chiu, C. A Smart Pillow for Health Sensing System Based on Temperature and Humidity Sensors. Sensors 2018, 18, 3664.
