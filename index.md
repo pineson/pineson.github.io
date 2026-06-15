@@ -58,7 +58,7 @@ title: Home
 ### PhD in Engineering / Computer and Communication
 *UTS* | *2013*
 
-## 📜<i class="fa-solid fa-book-open"></i> Publication
+## 📜 Publication
 ### Journal
 * Li, S. Fall Detection With Wrist-Worn Watch by Observations in Statistics of Acceleration, IEEE Access, 2023.3.[<i class="fa-solid fa-link"></i> Publisher Link](https://ieeexplore.ieee.org/abstract/document/10054047)
 * S Li, C Chiu, Improved Smart Pillow for Remote Health Care System, Journal of Sensor and Actuator Networks 10 (1), 9, 2020.
